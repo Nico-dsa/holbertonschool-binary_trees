@@ -3,7 +3,7 @@
 /**
  * binary_tree_postorder - func goes through bin tree using postorder traversal
  * @tree: is a pointer to the root node of the tree to traverse
- * func: is a pointer to a function to call for each node
+ * @func: is a pointer to a function to call for each node
  *
  * Return: Nothing
  */
